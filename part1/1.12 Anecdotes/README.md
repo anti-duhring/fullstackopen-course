@@ -1,0 +1,1 @@
+This folder contains the react-app for exercises 1.12 to 1.14
