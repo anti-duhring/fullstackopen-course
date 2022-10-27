@@ -1,0 +1,1 @@
+This folder contains the app from exercises 2.12 to 2.14
